@@ -1,4 +1,4 @@
-package com.westxixia.auth.realm;
+package com.westxixia.shiro.realm;
 
 import com.westxixia.auth.entity.User;
 import com.westxixia.auth.service.UserService;

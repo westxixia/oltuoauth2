@@ -41,7 +41,6 @@
         <!-- SECURITY begin -->
         <shiro.version>1.2.3</shiro.version>
         <commons-codec.version>1.9</commons-codec.version>
-
         <oltu.oauth2.version>0.31</oltu.oauth2.version>
         <!-- SECURITY end -->
     </properties>
